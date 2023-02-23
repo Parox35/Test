@@ -1,5 +1,0 @@
-Bonjour,
-Nous sommes en train de tester git
-Merci.
-
-lol
